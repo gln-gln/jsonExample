@@ -1,0 +1,13 @@
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.exe
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.deps.json
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.runtimeconfig.json
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.runtimeconfig.dev.json
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.dll
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\jsonDeserialize.pdb
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.csprojAssemblyReference.cache
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.AssemblyInfoInputs.cache
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.AssemblyInfo.cs
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.dll
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.pdb
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Gowri\2020\Projects\Learning Stuff\dotnet-jsonparse\jsonDeserialize\obj\Debug\netcoreapp3.1\jsonDeserialize.csproj.CopyComplete
